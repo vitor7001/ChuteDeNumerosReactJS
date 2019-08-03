@@ -1,2 +1,0 @@
-# ChuteDeNumerosReactJS
-Created with CodeSandbox
